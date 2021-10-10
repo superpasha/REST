@@ -1,0 +1,10 @@
+INFO	2021-10-10 14:59:20,713	1238	tests.Smoke	[main]	----TEST FINISHED: UpdateUserDetails_Email ----
+INFO	2021-10-10 14:59:20,724	1249	tests.Smoke	[main]	----TEST START: GetUserById ----
+INFO	2021-10-10 14:59:20,725	1250	tests.Smoke	[main]	Test user created with ID: -8370
+INFO	2021-10-10 14:59:20,760	1285	tests.Smoke	[main]	----TEST FINISHED: GetUserById ----
+INFO	2021-10-10 14:59:20,763	1288	tests.Smoke	[main]	----TEST START: CreateUserWithValidParameters ----
+INFO	2021-10-10 14:59:20,766	1291	tests.Smoke	[main]	Test user created with name: TestUser98964
+INFO	2021-10-10 14:59:20,766	1291	tests.Smoke	[main]	----TEST FINISHED: CreateUserWithValidParameters ----
+INFO	2021-10-10 14:59:20,768	1293	tests.Smoke	[main]	----TEST START: DeleteUser ----
+INFO	2021-10-10 14:59:20,768	1293	tests.Smoke	[main]	Test user created with ID: 53093
+INFO	2021-10-10 14:59:20,770	1295	tests.Smoke	[main]	----TEST FINISHED: DeleteUser ----
